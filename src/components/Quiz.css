@@ -1,0 +1,37 @@
+.quiz {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .question-section {
+    margin-bottom: 20px;
+  }
+  
+  .question-count {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .question-text {
+    font-size: 18px;
+  }
+  
+  .answer-section {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .score-section {
+    font-size: 24px;
+    text-align: center;
+  }
+  

@@ -1,0 +1,41 @@
+.home {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .home h1 {
+    font-size: 2rem;
+  }
+  
+  .quiz-categories {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .quiz-category {
+    text-align: center;
+    padding: 4%;
+  }
+  .quiz-category button {
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-weight: 200;
+    font-size: 12px;
+    color: white;
+    background-color: black;
+    border: 0;
+  }
+  
+  .quiz-category img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  
+  .quiz-category p {
+    margin-top: 10px;
+  }
+  
